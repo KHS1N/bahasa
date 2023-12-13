@@ -1,0 +1,26 @@
+/* Styling untuk tampilan */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.search-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dictionary {
+  padding: 20px;
+}
+
+.dictionary div {
+  margin-bottom: 10px;
+}
